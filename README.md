@@ -85,8 +85,6 @@ jupyter notebook notebooks/02_sql_queries.ipynb
 ### Folder Structure
 
 ```markdown
-## Folder Structure
-
 superstore-Data-Analysis-Project/
 │
 ├─ dataset/                     # Original dataset (unzipped)
