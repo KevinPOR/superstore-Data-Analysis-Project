@@ -64,7 +64,7 @@ Original dataset: [Superstore Sales Dataset on Kaggle](https://www.kaggle.com/da
 - Power BI dashboard saved in `SuperStore.pbix`  
 - Screenshot of final dashboard:
 
-![Dashboard Screenshot](images/dashboard_final.png)
+![Dashboard Screenshot](images/dashboard_final.jpeg)
 
 ## How to Run
 
@@ -84,10 +84,10 @@ jupyter notebook notebooks/02_sql_queries.ipynb
 ---
 
 ### Folder Structure
-- Let recruiters see the **organization** of your project:
 
 ```markdown
 ## Folder Structure
+```
 
 superstore-Data-Analysis-Project/
 │
@@ -100,4 +100,3 @@ superstore-Data-Analysis-Project/
 ├─ images/                      # Dashboard screenshot
 ├─ README.md
 ├─ requirements.txt
-```
