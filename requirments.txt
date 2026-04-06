@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+seaborn
+psycopg2
+os
+jupyter
+openpyxl #optional
+SQLAlchemy #optional
