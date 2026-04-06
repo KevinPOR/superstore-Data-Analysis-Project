@@ -1,0 +1,40 @@
+region,category,avg_profit_margin
+Africa,Technology,-0.19894637336967763
+EMEA,Technology,-0.1864110827019138
+Africa,Furniture,-0.1740748710762741
+EMEA,Furniture,-0.1428645124959333
+Africa,Office Supplies,-0.14147870760639278
+EMEA,Office Supplies,-0.1402099612404985
+Southeast Asia,Office Supplies,-0.1313530737721642
+Caribbean,Furniture,-0.0659722992999452
+North,Furniture,-0.0545817969903584
+Southeast Asia,Technology,-0.045732693352077816
+South,Furniture,-0.018502216323284623
+Southeast Asia,Furniture,-0.008352026557220319
+Central,Furniture,-0.005447716463406383
+South,Technology,0.039126196251543156
+Caribbean,Technology,0.05126909002142175
+Oceania,Furniture,0.06040150025608099
+Central,Office Supplies,0.06792529082948971
+Oceania,Technology,0.07176137881219079
+South,Office Supplies,0.07358379509956586
+Central,Technology,0.076290108234975
+Oceania,Office Supplies,0.08952768151436799
+East,Furniture,0.09958709248443194
+West,Furniture,0.10050642151836044
+East,Technology,0.12081499091750644
+Central Asia,Technology,0.1251495558618435
+Caribbean,Office Supplies,0.14148804792160977
+Central Asia,Office Supplies,0.14711443819588543
+West,Technology,0.14895977331049828
+Central Asia,Furniture,0.15315990596098542
+North,Office Supplies,0.16003032293935698
+North Asia,Technology,0.17024556695825296
+North,Technology,0.1753057839377998
+North Asia,Office Supplies,0.178780917458162
+North Asia,Furniture,0.18235666640743473
+East,Office Supplies,0.20695597186378276
+Canada,Technology,0.20815926650243774
+Canada,Furniture,0.2379244154932014
+Canada,Office Supplies,0.2546210255625694
+West,Office Supplies,0.2867397201233215
