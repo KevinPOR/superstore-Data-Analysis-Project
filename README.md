@@ -10,7 +10,7 @@ Original dataset: [Superstore Sales Dataset on Kaggle](https://www.kaggle.com/da
 - Raw dataset stored in `dataset/` (unzipped)
 - Processed/cleaned dataset for Power BI stored in `PowerBI_datasets/superstore_cleaned.csv`
 
-  ## Business Questions
+## Business Questions
 
 - What are total sales and profit trends?
 - Which products/customers generate the most revenue?
@@ -18,14 +18,14 @@ Original dataset: [Superstore Sales Dataset on Kaggle](https://www.kaggle.com/da
 - Are there seasonal patterns?
 - How much profit is made per unit of sales? (Profit Margin = Profit / Sales)
 
-  ## Tools Used
+## Tools Used
 
 - **Python** (Pandas, NumPy) for cleaning and preparing datasets  
 - **PostgreSQL** for running SQL queries and analysis  
 - **Power BI** for dashboards and KPI visualization  
 - **Jupyter Notebook** for reproducible analysis
 
-  ## Project Workflow
+## Project Workflow
 
 1. **Data Cleaning**  
    - Handled nulls and incorrect data types using Python  
@@ -46,7 +46,7 @@ Original dataset: [Superstore Sales Dataset on Kaggle](https://www.kaggle.com/da
 4. **Insights & Recommendations**  
    - See below for key metrics and actionable recommendations
   
-  ## Key Insights
+## Key Insights
 
 | Metric | Observation | Recommendation |
 |--------|------------|----------------|
@@ -80,16 +80,13 @@ jupyter notebook notebooks/01_data_cleaning.ipynb
 # Running SQL queries and saving results
 jupyter notebook notebooks/02_sql_queries.ipynb
 
-
 ---
 
 ### Folder Structure
 
 ```markdown
 ## Folder Structure
-```
 
-```markdown
 superstore-Data-Analysis-Project/
 │
 ├─ dataset/                     # Original dataset (unzipped)
