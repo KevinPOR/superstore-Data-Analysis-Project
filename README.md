@@ -64,7 +64,7 @@ Original dataset: [Superstore Sales Dataset on Kaggle](https://www.kaggle.com/da
 - Power BI dashboard saved in `SuperStore.pbix`  
 - Screenshot of final dashboard:
 
-![Dashboard Screenshot](images/dashboard_final.jpeg)
+![Dashboard Screenshot](images/dashboard_final.png)
 
 ## How to Run
 
@@ -93,7 +93,7 @@ superstore-Data-Analysis-Project/
 ├─ PowerBI_datasets/            # Cleaned datasets for Power BI
 ├─ SuperStore.pbix              # Final Power BI dashboard
 ├─ Queries.sql                  # SQL queries
-├─ images/                      # Dashboard screenshot
+├─ images/                      # Screenshots
 ├─ README.md
 ├─ requirements.txt
 ```
